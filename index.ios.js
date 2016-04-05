@@ -10,6 +10,7 @@ import React, {
   Text,
   View
 } from 'react-native';
+import SQLite from 'react-native-sqlite-storage';
 
 class ReactNativeRelaxedPoC extends Component {
   render() {
