@@ -5,6 +5,12 @@
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/relaxed/relaxed-react-webapp-poc.git"
+  },
+  "author": "Mikkel Hoegh <mikkel@hoegh.org>",
+  "license": "MIT",
   "dependencies": {
     "react": "^0.14.8",
     "react-native": "^0.22.2"
